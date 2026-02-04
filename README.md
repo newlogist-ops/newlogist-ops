@@ -1,8 +1,8 @@
 # BrunnoDev
-# Olá! Eu sou Bruno 👋
+# Opa! Eu sou o Brunno 👋
 
-Entre código, segurança e criatividade 🔐💻  
-aprendendo, testando, quebrando e entendendo como tudo funciona.
+Aprendendo, desenvolvendo e explorando falhas, levando projetos ao limite.  
+O foco é entender como tudo realmente funciona. 🔐💻
 
 ---
 
@@ -36,8 +36,10 @@ Quanto mais simples, menos dor de cabeça depois.
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-1a1a1a?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6633?style=flat&logo=burpsuite&logoColor=white)
 ![mitmproxy](https://img.shields.io/badge/mitmproxy-000000?style=flat&logo=mitmproxy&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat&logo=postman&logoColor=white)
 
-> Uso para inspecionar requisições, analisar fluxo, testar APIs e entender como os sistemas se comunicam e como eles se comportam.
+> Uso mais DevTools no dia a dia.  
+> As outras uso pra testar, observar fluxos e aprender como as coisas se comportam.
 
 ---
 
@@ -66,4 +68,4 @@ Criar sistemas simples, funcionais e difíceis de quebrar.
 
 ---
 
-“Entender antes economiza tempo depois.”
+“Entender antes costuma economizar tempo depois.”
