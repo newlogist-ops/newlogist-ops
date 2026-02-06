@@ -56,7 +56,7 @@ Criar sistemas simples, funcionais e difíceis de quebrar.
 
 ## 📍 Onde me encontrar
 
-![Website](https://img.shields.io/badge/Website--?style=for-the-badge&logo=google-chrome&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube--?style=for-the-badge&logo=youtube&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn--?style=for-the-badge&logo=linkedin&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-OFF-red?style=for-the-badge&logo=youtube&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-OFF-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+![Website](https://img.shields.io/badge/Website-OFF-gray?style=for-the-badge&logo=google-chrome&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-_4bdream-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_4bdream/)
