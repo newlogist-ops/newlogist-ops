@@ -1,3 +1,18 @@
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Hi 👋, I'm Bruno</h1>
+      <ul>
+        <li>🔐 Security-focused developer</li>
+        <li>⚙️ Web & systems</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="assets/card.png" />
+    </td>
+  </tr>
+</table>
+
 # BrunnoDev
 # Opa! Eu sou o Brunno 👋
 
